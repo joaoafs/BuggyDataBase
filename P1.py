@@ -1,6 +1,6 @@
 """
 FP2021 @ IST - Projeto 1 - Buggy Data Base (BDB)
-Feito por Joao Amadeu 98943
+Feito por Joao Amadeu
 """
 
 # -------------------------------------- 1.2.1 corrigir_palavra -------------------------------------- #
